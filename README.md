@@ -33,6 +33,10 @@ if( $GLOBALS['egw_info']['user']['apps']['edebug'] ) {
 
 # Screens
 
+<p align="center">
+  <img src="/doc/images/edebugvfs.png" width="350"/>
+</p>
+
 # Helping the Project
 Add new code or report bugs.
 
