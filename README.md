@@ -5,7 +5,7 @@ Xhprof Data write in VFS of EGroupware /app/edebug/{unid}/{unid}.xhprof
 
 This project was created for my other project -> ewawi, elogin and eworkflow
 
-# Liecense
+# License
 http://opensource.org/licenses/GPL-2.0 GPL2 - GNU General Public License, version 2 (GPL-2.0)
 
 # Howto use
@@ -33,7 +33,7 @@ if( $GLOBALS['egw_info']['user']['apps']['edebug'] ) {
 # Screens
 
 # Helping the Project
-Spend money, add new code or report bugs.
+Add new code or report bugs.
 
 # Contact
 If you have questions please ask.
