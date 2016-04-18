@@ -16,6 +16,7 @@ http://opensource.org/licenses/GPL-2.0 GPL2 - GNU General Public License, versio
 4. Add access edebug application to user or group in admin interface
 5. Go to settings and enable XHProf
 6. Add Lines to your code:
+
 - Begin profiling:
 ```php
 if( $GLOBALS['egw_info']['user']['apps']['edebug'] ) {
