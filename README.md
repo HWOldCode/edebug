@@ -1,6 +1,8 @@
 # edebug
 Debug helping in EGroupware UI with implemented xhprof, analyse your code and see time of exec.
+
 List view call URI and APP, with contextmenu you can see xhprof table and graph.
+
 Xhprof Data write in VFS of EGroupware /app/edebug/{unid}/{unid}.xhprof
 
 This project was created for my other project -> ewawi, elogin and eworkflow
