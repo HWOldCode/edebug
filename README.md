@@ -34,11 +34,11 @@ if( $GLOBALS['egw_info']['user']['apps']['edebug'] ) {
 # Screens
 
 <p align="center">
-  <img src="/doc/images/edebugsettings.png" width="350"/>
-  <img src="/doc/images/edebuglist.png" width="350"/>
-  <img src="/doc/images/edebugtable.png" width="350"/>
-  <img src="/doc/images/edebuggraph.png" width="350"/>
-  <img src="/doc/images/edebugvfs.png" width="350"/>
+  <img src="/doc/images/edebugsettings.png" width="350"/><br>
+  <img src="/doc/images/edebuglist.png" width="350"/><br>
+  <img src="/doc/images/edebugtable.png" width="350"/><br>
+  <img src="/doc/images/edebuggraph.png" width="350"/><br>
+  <img src="/doc/images/edebugvfs.png" width="350"/><br>
 </p>
 
 # Helping the Project
